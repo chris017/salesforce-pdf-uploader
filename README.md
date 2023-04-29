@@ -1,5 +1,5 @@
 # salesforce_pdf_uploader
-An Pdf uploader for Salesforce Attachments
+A user-friendly tool that allows users to easily upload their PDF files to Salesforce with just a few clicks. Customizable parameters such as the path to the Excel list, access data, request URL, and search path make it easy for users to tailor the tool to their specific needs. Additionally, an Excel file example is included to demonstrate how to format data for upload. Streamline your workflow and save time with my Pdf Uploader for Salesforce Attachments.
 
 ![excellist](https://user-images.githubusercontent.com/28670581/166197357-e3fcfd2f-c9ec-4a17-827c-451af2aad887.png)
 
